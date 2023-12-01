@@ -1,0 +1,1561 @@
+﻿idx,folio-idx,date-at-location,idx-location,location,Address,Latitude,Longitude,note,status
+1,2v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+2,3r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+3,7r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+4,10r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+5,16r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+6,16v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+7,18v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+8,20v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+9,21v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+10,22v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+11,23v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+12,24v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+13,25v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+14,26v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+15,27v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+16,28v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+17,29v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+18,30v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+19,31v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+20,32v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+21,33v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+22,34v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+23,35r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+24,36v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+25,37v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+26,38v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+27,39v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+28,40v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+29,41v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+30,42v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+31,43v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+32,44v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+33,45v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+34,46v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+35,47v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+36,48v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+37,49v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+38,50v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+39,51v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+40,52v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+41,53v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+42,54v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+43,55v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+44,56v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+45,57v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+46,58v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+47,59v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+48,60v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+49,61v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+50,62v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+51,63v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+52,64v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+53,65v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+54,66v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+55,67v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+56,68v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+57,69v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+58,70v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+59,71v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+60,72v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+61,73v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+62,74v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+63,76v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+64,77v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+65,78v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+66,79v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+67,80v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+68,81v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+69,82v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+70,83v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+71,84v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+72,85v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+73,86v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+74,87v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+75,89v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+76,92v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+77,96v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+78,98v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+79,100r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+80,102v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+81,104r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+82,105r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+83,109r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+84,110v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+85,111v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+86,112v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+87,118r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+88,122v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+89,123r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+90,124r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+91,127v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+92,130r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+93,134r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+94,135v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+95,138r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+96,141r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+97,143r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+98,146r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+99,151v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+100,153v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+101,155r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+102,156v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+103,163v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+104,164v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+105,166r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+106,168v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+107,170v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+108,171v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+109,174r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+110,175v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+111,178r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+112,179r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+113,180v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+114,181v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+115,182v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+116,183v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+117,185v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+118,188v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+119,189v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+120,190v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+121,195r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+122,198r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+123,201r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+124,202v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+125,204v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+126,206v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+127,210v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+128,212r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+129,213r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+130,214v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+131,216v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+132,218r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+133,221r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+134,223r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+135,225v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+136,226v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+137,229v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+138,232v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+139,234r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+140,236r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+141,238r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+142,239v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+143,241r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+144,242r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+145,243v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+146,245r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+147,248r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+148,251r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+149,252v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+150,254v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+151,257v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+152,259v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+153,261r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+154,263r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+155,265v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+156,266v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+157,268v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+158,271r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+159,272v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+160,274v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+161,276v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+162,279v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+163,281r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+164,286v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+165,291r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+166,294r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+167,295r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+168,299r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+169,300v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+170,308v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+171,326v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+172,328r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+173,336v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+174,339r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+175,341v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+176,342r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+177,342v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+178,343r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+179,343v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+180,345r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+181,346r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+182,349v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+183,352r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+184,360v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+185,367v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+186,376v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+187,383v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+188,385v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+189,402r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+190,403v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+191,404r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+192,405v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+193,406r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+194,413r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+195,422r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+196,430r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+197,432v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+198,433v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+199,434v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+200,435v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+201,436v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+202,438r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+203,439v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+204,442v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+205,451r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+206,461v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+207,466r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+208,472r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+209,475r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+210,486r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+211,496r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+212,507v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+213,513v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+214,516v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+215,521v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+216,527v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+217,535r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+218,538r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+219,543r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+220,547r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+221,550v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+222,551v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+223,553r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+224,555v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+225,557v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+226,563r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+227,568r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+228,573r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+229,577v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+230,578r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+231,586r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+232,592r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+233,595v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+234,602v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+235,611v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+236,615v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+237,622r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+238,629r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+239,633v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+240,638r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+241,639v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+242,643v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+243,649r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+244,654r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+245,655v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+246,658v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+247,671v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+248,690v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+249,698v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+250,702r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+251,707v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+252,708v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+253,715v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+254,721v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+255,731r,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+256,742v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+257,745v,1524,1,Tabriz,Tabriz,38.0792,46.2887,creation,complete
+258,2v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+259,3r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+260,7r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+261,10r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+262,16r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+263,16v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+264,18v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+265,20v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+266,21v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+267,22v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+268,23v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+269,24v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+270,25v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+271,26v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+272,27v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+273,28v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+274,29v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+275,30v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+276,31v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+277,32v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+278,33v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+279,34v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+280,35r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+281,36v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+282,37v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+283,38v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+284,39v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+285,40v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+286,41v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+287,42v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+288,43v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+289,44v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+290,45v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+291,46v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+292,47v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+293,48v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+294,49v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+295,50v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+296,51v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+297,52v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+298,53v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+299,54v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+300,55v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+301,56v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+302,57v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+303,58v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+304,59v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+305,60v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+306,61v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+307,62v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+308,63v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+309,64v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+310,65v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+311,66v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+312,67v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+313,68v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+314,69v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+315,70v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+316,71v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+317,72v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+318,73v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+319,74v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+320,76v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+321,77v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+322,78v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+323,79v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+324,80v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+325,81v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+326,82v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+327,83v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+328,84v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+329,85v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+330,86v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+331,87v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+332,89v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+333,92v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+334,96v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+335,98v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+336,100r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+337,102v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+338,104r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+339,105r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+340,109r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+341,110v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+342,111v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+343,112v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+344,118r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+345,122v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+346,123r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+347,124r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+348,127v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+349,130r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+350,134r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+351,135v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+352,138r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+353,141r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+354,143r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+355,146r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+356,151v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+357,153v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+358,155r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+359,156v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+360,163v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+361,164v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+362,166r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+363,168v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+364,170v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+365,171v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+366,174r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+367,175v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+368,178r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+369,179r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+370,180v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+371,181v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+372,182v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+373,183v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+374,185v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+375,188v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+376,189v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+377,190v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+378,195r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+379,198r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+380,201r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+381,202v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+382,204v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+383,206v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+384,210v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+385,212r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+386,213r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+387,214v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+388,216v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+389,218r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+390,221r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+391,223r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+392,225v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+393,226v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+394,229v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+395,232v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+396,234r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+397,236r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+398,238r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+399,239v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+400,241r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+401,242r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+402,243v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+403,245r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+404,248r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+405,251r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+406,252v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+407,254v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+408,257v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+409,259v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+410,261r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+411,263r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+412,265v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+413,266v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+414,268v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+415,271r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+416,272v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+417,274v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+418,276v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+419,279v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+420,281r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+421,286v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+422,291r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+423,294r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+424,295r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+425,299r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+426,300v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+427,308v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+428,326v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+429,328r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+430,336v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+431,339r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+432,341v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+433,342r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+434,342v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+435,343r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+436,343v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+437,345r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+438,346r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+439,349v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+440,352r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+441,360v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+442,367v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+443,376v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+444,383v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+445,385v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+446,402r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+447,403v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+448,404r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+449,405v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+450,406r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+451,413r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+452,422r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+453,430r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+454,432v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+455,433v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+456,434v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+457,435v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+458,436v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+459,438r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+460,439v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+461,442v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+462,451r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+463,461v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+464,466r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+465,472r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+466,475r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+467,486r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+468,496r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+469,507v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+470,513v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+471,516v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+472,521v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+473,527v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+474,535r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+475,538r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+476,543r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+477,547r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+478,550v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+479,551v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+480,553r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+481,555v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+482,557v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+483,563r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+484,568r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+485,573r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+486,577v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+487,578r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+488,586r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+489,592r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+490,595v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+491,602v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+492,611v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+493,615v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+494,622r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+495,629r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+496,633v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+497,638r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+498,639v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+499,643v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+500,649r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+501,654r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+502,655v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+503,658v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+504,671v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+505,690v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+506,698v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+507,702r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+508,707v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+509,708v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+510,715v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+511,721v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+512,731r,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+513,742v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+514,745v,1568,2,Istanbul,Istanbul,41.0082,28.9784,Gifted to Sultan Selim II,complete
+515,2v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+516,3r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+517,7r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+518,10r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+519,16r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+520,16v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+521,18v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+522,20v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+523,21v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+524,22v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+525,23v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+526,24v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+527,25v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+528,26v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+529,27v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+530,28v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+531,29v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+532,30v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+533,31v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+534,32v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+535,33v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+536,34v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+537,35r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+538,36v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+539,37v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+540,38v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+541,39v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+542,40v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+543,41v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+544,42v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+545,43v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+546,44v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+547,45v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+548,46v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+549,47v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+550,48v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+551,49v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+552,50v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+553,51v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+554,52v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+555,53v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+556,54v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+557,55v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+558,56v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+559,57v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+560,58v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+561,59v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+562,60v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+563,61v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+564,62v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+565,63v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+566,64v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+567,65v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+568,66v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+569,67v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+570,68v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+571,69v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+572,70v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+573,71v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+574,72v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+575,73v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+576,74v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+577,76v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+578,77v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+579,78v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+580,79v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+581,80v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+582,81v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+583,82v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+584,83v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+585,84v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+586,85v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+587,86v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+588,87v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+589,89v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+590,92v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+591,96v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+592,98v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+593,100r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+594,102v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+595,104r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+596,105r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+597,109r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+598,110v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+599,111v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+600,112v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+601,118r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+602,122v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+603,123r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+604,124r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+605,127v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+606,130r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+607,134r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+608,135v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+609,138r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+610,141r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+611,143r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+612,146r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+613,151v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+614,153v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+615,155r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+616,156v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+617,163v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+618,164v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+619,166r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+620,168v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+621,170v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+622,171v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+623,174r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+624,175v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+625,178r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+626,179r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+627,180v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+628,181v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+629,182v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+630,183v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+631,185v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+632,188v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+633,189v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+634,190v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+635,195r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+636,198r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+637,201r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+638,202v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+639,204v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+640,206v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+641,210v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+642,212r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+643,213r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+644,214v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+645,216v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+646,218r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+647,221r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+648,223r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+649,225v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+650,226v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+651,229v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+652,232v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+653,234r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+654,236r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+655,238r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+656,239v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+657,241r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+658,242r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+659,243v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+660,245r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+661,248r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+662,251r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+663,252v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+664,254v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+665,257v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+666,259v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+667,261r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+668,263r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+669,265v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+670,266v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+671,268v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+672,271r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+673,272v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+674,274v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+675,276v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+676,279v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+677,281r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+678,286v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+679,291r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+680,294r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+681,295r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+682,299r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+683,300v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+684,308v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+685,326v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+686,328r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+687,336v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+688,339r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+689,341v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+690,342r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+691,342v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+692,343r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+693,343v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+694,345r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+695,346r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+696,349v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+697,352r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+698,360v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+699,367v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+700,376v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+701,383v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+702,385v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+703,402r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+704,403v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+705,404r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+706,405v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+707,406r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+708,413r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+709,422r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+710,430r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+711,432v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+712,433v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+713,434v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+714,435v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+715,436v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+716,438r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+717,439v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+718,442v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+719,451r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+720,461v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+721,466r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+722,472r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+723,475r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+724,486r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+725,496r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+726,507v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+727,513v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+728,516v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+729,521v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+730,527v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+731,535r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+732,538r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+733,543r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+734,547r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+735,550v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+736,551v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+737,553r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+738,555v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+739,557v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+740,563r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+741,568r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+742,573r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+743,577v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+744,578r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+745,586r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+746,592r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+747,595v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+748,602v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+749,611v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+750,615v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+751,622r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+752,629r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+753,633v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+754,638r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+755,639v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+756,643v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+757,649r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+758,654r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+759,655v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+760,658v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+761,671v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+762,690v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+763,698v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+764,702r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+765,707v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+766,708v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+767,715v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+768,721v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+769,731r,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+770,742v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+771,745v,1903,3,Paris,Paris,48.8566,2.3522,Edmond James de Rothschild,complete
+772,2v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+773,3r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+774,7r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+775,10r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+776,16r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+777,16v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+778,18v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+779,20v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+780,21v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+781,22v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+782,23v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+783,24v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+784,25v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+785,26v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+786,27v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+787,28v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+788,29v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+789,30v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+790,31v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+791,32v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+792,33v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+793,34v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+794,35r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+795,36v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+796,37v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+797,38v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+798,39v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+799,40v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+800,41v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+801,42v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+802,43v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+803,44v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+804,45v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+805,46v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+806,47v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+807,48v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+808,49v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+809,50v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+810,51v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+811,52v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+812,53v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+813,54v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+814,55v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+815,56v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+816,57v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+817,58v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+818,59v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+819,60v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+820,61v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+821,62v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+822,63v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+823,64v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+824,65v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+825,66v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+826,67v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+827,68v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+828,69v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+829,70v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+830,71v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+831,72v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+832,73v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+833,74v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+834,76v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+835,77v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+836,78v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+837,79v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+838,80v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+839,81v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+840,82v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+841,83v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+842,84v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+843,85v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+844,86v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+845,87v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+846,89v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+847,92v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+848,96v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+849,98v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+850,100r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+851,102v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+852,104r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+853,105r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+854,109r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+855,110v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+856,111v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+857,112v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+858,118r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+859,122v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+860,123r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+861,124r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+862,127v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+863,130r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+864,134r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+865,135v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+866,138r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+867,141r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+868,143r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+869,146r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+870,151v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+871,153v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+872,155r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+873,156v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+874,163v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+875,164v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+876,166r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+877,168v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+878,170v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+879,171v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+880,174r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+881,175v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+882,178r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+883,179r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+884,180v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+885,181v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+886,182v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+887,183v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+888,185v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+889,188v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+890,189v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+891,190v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+892,195r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+893,198r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+894,201r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+895,202v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+896,204v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+897,206v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+898,210v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+899,212r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+900,213r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+901,214v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+902,216v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+903,218r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+904,221r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+905,223r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+906,225v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+907,226v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+908,229v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+909,232v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+910,234r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+911,236r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+912,238r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+913,239v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+914,241r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+915,242r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+916,243v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+917,245r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+918,248r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+919,251r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+920,252v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+921,254v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+922,257v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+923,259v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+924,261r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+925,263r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+926,265v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+927,266v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+928,268v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+929,271r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+930,272v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+931,274v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+932,276v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+933,279v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+934,281r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+935,286v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+936,291r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+937,294r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+938,295r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+939,299r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+940,300v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+941,308v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+942,326v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+943,328r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+944,336v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+945,339r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+946,341v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+947,342r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+948,342v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+949,343r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+950,343v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+951,345r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+952,346r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+953,349v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+954,352r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+955,360v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+956,367v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+957,376v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+958,383v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+959,385v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+960,402r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+961,403v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+962,404r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+963,405v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+964,406r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+965,413r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+966,422r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+967,430r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+968,432v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+969,433v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+970,434v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+971,435v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+972,436v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+973,438r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+974,439v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+975,442v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+976,451r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+977,461v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+978,466r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+979,472r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+980,475r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+981,486r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+982,496r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+983,507v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+984,513v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+985,516v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+986,521v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+987,527v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+988,535r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+989,538r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+990,543r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+991,547r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+992,550v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+993,551v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+994,553r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+995,555v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+996,557v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+997,563r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+998,568r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+999,573r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1000,577v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1001,578r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1002,586r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1003,592r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1004,595v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1005,602v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1006,611v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1007,615v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1008,622r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1009,629r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1010,633v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1011,638r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1012,639v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1013,643v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1014,649r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1015,654r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1016,655v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1017,658v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1018,671v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1019,690v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1020,698v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1021,702r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1022,707v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1023,708v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1024,715v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1025,721v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1026,731r,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1027,742v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1028,745v,1934,4,Paris,Paris,48.8566,2.3522,Maurice de Rothschild,complete
+1029,2v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1030,3r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1031,7r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1032,10r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1033,16r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1034,16v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1035,18v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1036,20v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1037,21v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1038,22v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1039,23v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1040,24v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1041,25v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1042,26v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1043,27v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1044,28v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1045,29v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1046,30v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1047,31v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1048,32v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1049,33v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1050,34v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1051,35r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1052,36v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1053,37v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1054,38v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1055,39v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1056,40v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1057,41v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1058,42v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1059,43v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1060,44v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1061,45v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1062,46v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1063,47v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1064,48v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1065,49v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1066,50v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1067,51v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1068,52v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1069,53v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1070,54v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1071,55v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1072,56v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1073,57v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1074,58v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1075,59v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1076,60v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1077,61v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1078,62v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1079,63v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1080,64v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1081,65v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1082,66v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1083,67v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1084,68v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1085,69v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1086,70v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1087,71v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1088,72v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1089,73v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1090,74v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1091,76v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1092,77v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1093,78v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1094,79v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1095,80v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1096,81v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1097,82v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1098,83v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1099,84v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1100,85v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1101,86v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1102,87v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1103,89v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1104,92v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1105,96v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1106,98v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1107,100r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1108,102v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1109,104r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1110,105r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1111,109r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1112,110v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1113,111v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1114,112v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1115,118r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1116,122v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1117,123r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1118,124r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1119,127v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1120,130r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1121,134r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1122,135v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1123,138r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1124,141r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1125,143r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1126,146r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1127,151v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1128,153v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1129,155r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1130,156v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1131,163v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1132,164v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1133,166r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1134,168v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1135,170v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1136,171v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1137,174r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1138,175v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1139,178r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1140,179r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1141,180v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1142,181v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1143,182v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1144,183v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1145,185v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1146,188v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1147,189v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1148,190v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1149,195r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1150,198r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1151,201r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1152,202v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1153,204v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1154,206v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1155,210v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1156,212r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1157,213r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1158,214v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1159,216v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1160,218r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1161,221r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1162,223r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1163,225v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1164,226v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1165,229v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1166,232v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1167,234r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1168,236r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1169,238r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1170,239v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1171,241r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1172,242r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1173,243v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1174,245r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1175,248r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1176,251r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1177,252v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1178,254v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1179,257v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1180,259v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1181,261r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1182,263r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1183,265v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1184,266v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1185,268v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1186,271r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1187,272v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1188,274v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1189,276v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1190,279v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1191,281r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1192,286v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1193,291r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1194,294r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1195,295r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1196,299r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1197,300v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1198,308v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1199,326v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1200,328r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1201,336v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1202,339r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1203,341v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1204,342r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1205,342v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1206,343r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1207,343v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1208,345r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1209,346r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1210,349v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1211,352r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1212,360v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1213,367v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1214,376v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1215,383v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1216,385v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1217,402r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1218,403v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1219,404r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1220,405v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1221,406r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1222,413r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1223,422r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1224,430r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1225,432v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1226,433v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1227,434v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1228,435v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1229,436v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1230,438r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1231,439v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1232,442v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1233,451r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1234,461v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1235,466r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1236,472r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1237,475r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1238,486r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1239,496r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1240,507v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1241,513v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1242,516v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1243,521v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1244,527v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1245,535r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1246,538r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1247,543r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1248,547r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1249,550v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1250,551v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1251,553r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1252,555v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1253,557v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1254,563r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1255,568r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1256,573r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1257,577v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1258,578r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1259,586r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1260,592r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1261,595v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1262,602v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1263,611v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1264,615v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1265,622r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1266,629r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1267,633v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1268,638r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1269,639v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1270,643v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1271,649r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1272,654r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1273,655v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1274,658v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1275,671v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1276,690v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1277,698v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1278,702r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1279,707v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1280,708v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1281,715v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1282,721v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1283,731r,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1284,742v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1285,745v,1959,5,"Cambridge, USA","Cambridge, USA",42.3736,71.1097,Arthur A. Houghton Jr.,unbounded
+1286,2v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1287,3r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1288,7r,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1289,10r,,final,"Museum für Islamiche Kunst, Staatliche Museen zu Berlin","Bodestraße 1-3, 10178 Berlin, Germany",52.5212932,13.3968627,,dispersed
+1290,16r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1291,16v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1292,18v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1293,20v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1294,21v,,final,S.C. Welch Family,,,,,dispersed
+1295,22v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1296,23v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1297,24v,,final,"The Ebrahimi Family Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1298,25v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1299,26v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1300,27v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1301,28v,,final,"Museum of Islamic Art, Doha, Qatar","Doha, Qatar",25.2854473,51.5310398,,dispersed
+1302,29v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1303,30v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1304,31v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1305,32v,,final,Private Collection,,,,,dispersed
+1306,33v,,final,"Museum of Islamic Art, Doha, Qatar","Doha, Qatar",25.2854473,51.5310398,,dispersed
+1307,34v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1308,35r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1309,36v,,final,"Freer Gallery of Art, Smithsonian Instiutution, Washington, D.C., Purchase","1050 Independence Ave SW, Washington, DC 20004",38.887983,-77.0264455,,dispersed
+1310,37v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1311,38v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1312,39v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1313,40v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1314,41v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1315,42v,,final,Private Collection,,,,,dispersed
+1316,43v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1317,44v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1318,45v,,final,Private Collection,,,,,dispersed
+1319,46v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1320,47v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1321,48v,,final,"Cincinnati Art Museum, The Edwin and Virginia Irwin Memorial","953 Eden Park Dr, Cincinnati, OH 45202",39.1139763,-84.496859,,dispersed
+1322,49v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1323,50v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1324,51v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1325,52v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1326,53v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1327,54v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1328,55v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1329,56v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1330,57v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1331,58v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1332,59v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1333,60v,,final,"The Farjam Collection, Dubai","Dubai, United Arab Emirates",25.2048493,55.2707828,,dispersed
+1334,61v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1335,62v,,final,"The Art and History Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1336,63v,,final,"Museum für Islamiche Kunst, Staatliche Museen zu Berlin","Bodestraße 1-3, 10178 Berlin, Germany",52.5212932,13.3968627,,dispersed
+1337,64v,,final,"The Ebrahimi Family Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1338,65v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1339,66v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1340,67v,,final,Collection unknown,,,,,dispersed
+1341,68v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1342,69v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1343,70v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1344,71v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1345,72v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1346,73v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1347,74v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1348,76v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1349,77v,,final,Private Collection,,,,,dispersed
+1350,78v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1351,79v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1352,80v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1353,81v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1354,82v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1355,83v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1356,84v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1357,85v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1358,86v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1359,87v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1360,89v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1361,92v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1362,96v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1363,98v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1364,100r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1365,102v,,final,Private Collection,,,,,dispersed
+1366,104r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1367,105r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1368,109r,,final,"The Art and History Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1369,110v,,final,Private Collection,,,,,dispersed
+1370,111v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1371,112v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1372,118r,,final,"The Art and History Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1373,122v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1374,123r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1375,124r,,final,The Cleveland Museum of Art,"11150 East Blvd, Cleveland, OH 44106",41.509041,-81.6120703,,dispersed
+1376,127v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1377,130r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1378,134r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1379,135v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1380,138r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1381,141r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1382,143r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1383,146r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1384,151v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1385,153v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1386,155r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1387,156v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1388,163v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1389,164v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1390,166r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1391,168v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1392,170v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1393,171v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1394,174r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1395,175v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1396,178r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1397,179r,,final,"Harvard Art Museums/Arthur M. Sackler Museum, The Norma Jean Calderwood Collection of Islamic Art","Cambridge, MA 02138",42.3803274,-71.1389101,,dispersed
+1398,180v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1399,181v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1400,182v,,final,Private Collection,,,,,dispersed
+1401,183v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1402,185v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1403,188v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1404,189v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1405,190v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1406,195r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1407,198r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1408,201r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1409,202v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1410,204v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1411,206v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1412,210v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1413,212r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1414,213r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1415,214v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1416,216v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1417,218r,,final,"The David Collection, Copenhagen","Kronprinsessegade 30, 1306 København, Denmark",55.6842905,12.5824472,,dispersed
+1418,221r,,final,"The David Collection, Copenhagen","Kronprinsessegade 30, 1306 København, Denmark",55.6842905,12.5824472,,dispersed
+1419,223r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1420,225v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1421,226v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1422,229v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1423,232v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1424,234r,,final,Collection unknown,,,,,dispersed
+1425,236r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1426,238r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1427,239v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1428,241r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1429,242r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1430,243v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1431,245r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1432,248r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1433,251r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1434,252v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1435,254v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1436,257v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1437,259v,,final,Collection unknown,,,,,dispersed
+1438,261r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1439,263r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1440,265v,,final,"Virginia Museum of Fine Arts, Richmond, Adolph D. and Wilkins C. Williams Fund","200 N Arthur Ashe Blvd, Richmond, VA 23220",37.5560356,-77.4747907,,dispersed
+1441,266v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1442,268v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1443,271r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1444,272v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1445,274v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1446,276v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1447,279v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1448,281r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1449,286v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1450,291r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1451,294r,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1452,295r,,final,Private Collection,,,,,dispersed
+1453,299r,,final,"Museum für Islamiche Kunst, Staatliche Museen zu Berlin","Bodestraße 1-3, 10178 Berlin, Germany",52.5212932,13.3968627,,dispersed
+1454,300v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1455,308v,,final,David Sofer Collection,,,,,dispersed
+1456,326v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1457,328r,,final,Private Collection,,,,,dispersed
+1458,336v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1459,339r,,final,"The Art and History Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1460,341v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1461,342r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1462,342v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1463,343r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1464,343v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1465,345r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1466,346r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1467,349v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1468,352r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1469,360v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1470,367v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1471,376v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1472,383v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1473,385v,,final,Private Collection,,,,,dispersed
+1474,402r,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1475,403v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1476,404r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1477,405v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1478,406r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1479,413r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1480,422r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1481,430r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1482,432v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1483,433v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1484,434v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1485,435v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1486,436v,,final,"The David Collection, Copenhagen","Kronprinsessegade 30, 1306 København, Denmark",55.6842905,12.5824472,,dispersed
+1487,438r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1488,439v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1489,442v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1490,451r,,final,Private Collection,,,,,dispersed
+1491,461v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1492,466r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1493,472r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1494,475r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1495,486r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1496,496r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1497,507v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1498,513v,,final,Private Collection,,,,,dispersed
+1499,516v,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1500,521v,,final,"Aga Khan Museum, Toronto","77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7252519,-79.3320686,,dispersed
+1501,527v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1502,535r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1503,538r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1504,543r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1505,547r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1506,550v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1507,551v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1508,553r,,final,"Tareq Rajab Museum, Kuwait","Block 12, Street 5, Building 22 Jabriya, Kuwait",29.3213802,48.0530719,,dispersed
+1509,555v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1510,557v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1511,563r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1512,568r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1513,573r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1514,577v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1515,578r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1516,586r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1517,592r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1518,595v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1519,602v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1520,611v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1521,615v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1522,622r,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1523,629r,,final,"Los Angeles County Museum of Art, Gift of the 1989 Collections Committee","5905 Wilshire Blvd, Los Angeles, CA 90036",34.0636493,-118.3589586,,dispersed
+1524,633v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1525,638r,,final,"The Ebrahimi Family Collection, courtesy of the Arthur M. Sackler Gallery, Smithsonian Institution","600 Maryland Ave SW, Washington, DC 20024",38.8862494,-77.0215646,,dispersed
+1526,639v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1527,643v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1528,649r,,final,"Museum of Islamic Art, Doha, Qatar","Doha, Qatar",25.2854473,51.5310398,,dispersed
+1529,654r,,final,Private Collection,,,,,dispersed
+1530,655v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1531,658v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1532,671v,,final,"Reza Abbasi Museum, Tehran","Tehran Province, Tehran, District 7, Shariati St, PCRW+CJF, Iran",35.7217822,51.442943,,dispersed
+1533,690v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1534,698v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1535,702r,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1536,707v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1537,708v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1538,715v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1539,721v,1994,final,Tehran Museum of Contemporary Art,"P96R+G65, Tehran, Tehran Province, Iran",35.7112625,51.3906094,,dispersed
+1540,731r,,final,The Nasser D. Khalili Collection of Islamic Art,,,,,dispersed
+1541,742v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1542,745v,1970,final,The Metropolitan Museum of Art,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,,dispersed
+1543,42v,1972,6,the MET,"1000 Fifth Avenue. at 82nd Street. New York, NY, 10028",40.7794483,-73.9633027,"Exhibition: ""A King's Book of Kings""",dispersed
+1544,42v,1977,7,London,,51.5072,0.1276,Agnews,dispersed
+1545,42v,1979,8,London,,51.5072,0.1276,"Exhibition: ""Wonders of the Age""",dispersed
+1546,84v,1903,3,Paris,,48.8566,2.3522,"Exposition d'art Islamique, Musée des arts décoratifs",dispersed
+1547,84v,1988,6,London,,51.5072,0.1276,Christie's,dispersed
+1548,84v,2002,7,London,,51.5072,0.1276,Christie's,dispersed
+1549,295r,1979,6,London,,51.5072,0.1276,"Exhibition: ""Wonders of the Age""",dispersed
+1550,295r,1988,7,London,,51.5072,0.1276,Christie's,dispersed
+1551,295r,2022,8,Europe,,54.526,15.2551,Private Collection,dispersed
+1552,295r,2022,9,,,,,Sotheby's,dispersed
+1553,328r,1988,6,London,,51.5072,0.1276,,dispersed
+1554,328r,2023,7,Europe,,,,Private Collections,dispersed
+1555,328r,2023,8,,,,,Sotheby's,dispersed
+1556,451r,1977,6,London,,51.5072,0.1276,Agnews,dispersed
+1557,451r,1977,7,London,,51.5072,0.1276,The British Rail Pension Fund,dispersed
+1558,451r,1996,8,London,,51.5072,0.1276,Sotheby's,dispersed
+1559,451r,1996,9,USA,,37.0902,-95.7129,Private Collection,dispersed
+1560,451r,2022,10,,,,,Christie's,dispersed
